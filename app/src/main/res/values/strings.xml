@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatWithFirebaseAndAuthentication</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="quero_me_cadastrar">Quero me cadastrar</string>
+    <string name="data_nome">Em %s, %s diz:</string>
+    <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="cadastro_sucesso">Cadastro efetuado com sucesso!!</string>
+    <string name="cadastro_falha">Ocorreu um erro no cadastro!</string>
+    <string name="select_chat">Selecione o chat em que deseja entrar</string>
+    <string name="cinema">Cinema</string>
+    <string name="novidades">Novidades</string>
+    <string name="tecnologia">Tecnologia</string>
+    <string name="economia">Economia</string>
+    <string name="voltar_para_login">Voltar para login</string>
+    <string name="efetue_o_login_para_entrar_em_um_chat">Efetue o login para entrar em um chat!</string>
+    <string name="insira_os_dados_para_cadastro">Insira os dados para cadastro</string>
+    <string name="chat_da_categoria">Chat da categoria: </string>
+    <string name="falha_login">Login falhou</string>
+</resources>
